@@ -1,2 +1,3 @@
 # College
-This is a college website.Author - Pranay Jungade
+This is a college website.
+Author - Pranay J.
